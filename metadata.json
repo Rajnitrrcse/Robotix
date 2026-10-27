@@ -1,0 +1,6 @@
+{
+  "name": "ROBOFEST 2026 — Robotics & Innovation Festival",
+  "description": "Official concept landing page for ROBOFEST 2026 presented by ROBOTiX Club, NIT Raipur. Theme: NEURAL FRONTIER — Where Intelligence Meets Imagination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
